@@ -10,5 +10,5 @@ We believe that our game has the potential to be something special and we are al
 
 Thank you for your interest in our project!
 
-## Plot (v2.0)
+## Plot
 The plot is still in the works, stay tuned!
