@@ -10,12 +10,12 @@ We believe that our game has the potential to be something special and we are al
 
 Thank you for your interest in our project!
 
+# Game’s Overview
+
 ## Plot
 Dolores Tombeau: The tales Of Feelings is a unique third-person investigative adventure set in a dark and prestigious Gothic academy.
 The protagonist, Dolores Tombeau, is a young woman with an eerie appearance and sharp intelligence, reflecting the macabre style of her family.
 Be drawn in by her dark humor and mysterious spirit as you solve intricate puzzles and uncover the truth about a complex murder case.
-
-# Game’s Overview
 
 ## Game informations
 
