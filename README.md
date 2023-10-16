@@ -14,3 +14,26 @@ Thank you for your interest in our project!
 Dolores Tombeau: The tales Of Feelings is a unique third-person investigative adventure set in a dark and prestigious Gothic academy.
 The protagonist, Dolores Tombeau, is a young woman with an eerie appearance and sharp intelligence, reflecting the macabre style of her family.
 Be drawn in by her dark humor and mysterious spirit as you solve intricate puzzles and uncover the truth about a complex murder case.
+
+# Game’s Overview
+
+## Game informations
+
+* Target audience: Age 14+
+* Platform: PC only
+
+## Technical specifications
+
+* Minimum requirements:
+  * Operating system: Windows 10 or 11
+  * Processor: Intel Core i5 or AMD Ryzen 5
+  * RAM: 8 GB
+  * Storage: 10 GB
+  * Graphics card: NVIDIA GeForce GTX 1080
+
+* Recommended requirements:
+  * Operating system: Windows 10 or 11
+  * Processor: Intel Core i7 or AMD Ryzen 7
+  * RAM: 16 GB
+  * Storage: 10 GB
+  * Graphics card: NVIDIA GeForce RTX 2070
