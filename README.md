@@ -28,12 +28,12 @@ Be drawn in by her dark humor and mysterious spirit as you solve intricate puzzl
   * Operating system: Windows 10 or 11
   * Processor: Intel Core i5 or AMD Ryzen 5
   * RAM: 8 GB
-  * Storage: 10 GB
+  * Storage: SSD
   * Graphics card: NVIDIA GeForce GTX 1080
 
 * Recommended requirements:
   * Operating system: Windows 10 or 11
   * Processor: Intel Core i7 or AMD Ryzen 7
   * RAM: 16 GB
-  * Storage: 10 GB
+  * Storage: SSD
   * Graphics card: NVIDIA GeForce RTX 2070
