@@ -48,10 +48,12 @@ Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure
 
 * **Passive Skills**
   * Deduction: The character can collect clues and connect them together. This could be represented visually in the game through a notebook-like system, where various pieces of information are laid out. Some pieces of information must be selected in a specific order in order to unlock a deduced piece of information. Correct execution can be represented with visual     feedback, such as using the color green for correct execution and red for incorrect execution.
-    
+
+![Screenshot 2023-10-23 134320](https://github.com/HashMall0w/DTOF/assets/78042460/4f66f072-fe0c-4933-afc5-33c5843ee741)
+
 
 ## Powerup System and Balancing
 
-* **Enchanced Vision powerup** : Players can earn upgrades that make the enhanced vision ability more effective, such as the ability to analyze it more quickly. To prevent the ability from becoming too easy to use, a "watched" state could be used on the selected player that counters the ability of our player. Analysis speed will have a success percentage based on the difficulty and the player's current level, allowing the analysis before the selected player enters this state.
+* Enchanced Vision powerup : Players can earn upgrades that make the enhanced vision ability more effective, such as the ability to analyze it more quickly. To prevent the ability from becoming too easy to use, a "watched" state could be used on the selected player that counters the ability of our player. Analysis speed will have a success percentage based on the difficulty and the player's current level, allowing the analysis before the selected player enters this state.
   
-* **Elusion powerup** : Players can spend in-game points to upgrade their clothing, such as new shoe soles to make less noise. There could be multiple skill levels for evasion, allowing players to gradually improve their stealth abilities.
+* Elusion powerup : Players can spend in-game points to upgrade their clothing, such as new shoe soles to make less noise. There could be multiple skill levels for evasion, allowing players to gradually improve their stealth abilities.
