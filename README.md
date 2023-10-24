@@ -64,5 +64,6 @@ Brain-shaped medals are the medals used to enhance skills. These can only be obt
 ## Powerup System and Balancing
 
 * Enchanced Vision powerup : Players can earn upgrades that make the enhanced vision ability more effective, such as the ability to analyze it more quickly. To prevent the ability from becoming too easy to use, a "watched" state could be used on the selected player that counters the ability of our player. Analysis speed will have a success percentage based on the difficulty and the player's current level, allowing the analysis before the selected player enters this state.
+Time limits on the use of enhanced vision force you to be selective in using the ability.
   
 * Elusion powerup : Players can spend in-game points to upgrade their clothing, such as new shoe soles to make less noise. There could be multiple skill levels for evasion, allowing players to gradually improve their stealth abilities.
