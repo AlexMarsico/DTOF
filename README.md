@@ -42,8 +42,8 @@ Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure
 * **Active Skills**
   * Enhanced vision: Players will acquire emotions by completing main missions. These emotions can be used to analyze people, providing players with useful information to solve mysteries. This could be represented through visual feedback, such as changes in character behavior or appearance that help with the investigation.
     ![image](https://github.com/HashMall0w/DTOF/assets/78042460/480a7b3b-073b-408f-9af4-1776d08cbf57)
+
   * Elusion: Players can move in a stealthy manner to avoid being detected. This skill can be progressively improved through the purchase of special equipment. Players can also collect and throw objects to distract enemies and continue with the mission.
-  
     ![1696846593631](https://github.com/HashMall0w/DTOF/assets/78042460/0ef2d38d-e4d3-49b5-825f-cab13f82b21e)
 
 * **Passive Skills**
