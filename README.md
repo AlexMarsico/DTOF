@@ -27,13 +27,6 @@ Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure
   * RAM: 8 GB
   * Storage: SSD
   * Graphics card: NVIDIA GeForce GTX 1080
-
-* **Recommended requirements**:
-  * Operating system: Windows 10 or 11
-  * Processor: Intel Core i7 or AMD Ryzen 7
-  * RAM: 16 GB
-  * Storage: SSD
-  * Graphics card: NVIDIA GeForce RTX 2070
  
 # Gameplay
 
