@@ -60,3 +60,5 @@ Brain-shaped medals are the medals used to enhance skills. These can only be obt
 Time limits on the use of enhanced vision force you to be selective in using the ability.
   
 * Elusion powerup : Players can spend in-game points to upgrade their clothing, such as new shoe soles to make less noise. There could be multiple skill levels for evasion, allowing players to gradually improve their stealth abilities.
+
+* Telekinesis powerup : The player will be able to move multiple objects simultaneously and create protective force fields that will allow them to gain time to hide by leaving the enemy's field of vision.
