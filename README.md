@@ -68,4 +68,4 @@ Time limits on the use of enhanced vision force you to be selective in using the
 The inventory is a black leather backpack, in which the player can place items collected during gameplay sessions. It offers a category-based organization to facilitate search, and an interaction system with items, allowing the player to examine them or combine them together. Finally, for each item, the inventory also provides an accurate description, providing tips on how to use it or if it is possible to combine it with other items.
 
 ## License
-Copyright © 2023 [Alex Marsico]
+Copyright © 2023 Alex Marsico
