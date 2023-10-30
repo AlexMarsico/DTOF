@@ -62,3 +62,10 @@ Time limits on the use of enhanced vision force you to be selective in using the
 * Elusion powerup : Players can spend in-game points to upgrade their clothing, such as new shoe soles to make less noise. There could be multiple skill levels for evasion, allowing players to gradually improve their stealth abilities.
 
 * Telekinesis powerup : The player will be able to move multiple objects simultaneously and create protective force fields that will allow them to gain time to hide by leaving the enemy's field of vision.
+
+## Inventory
+
+The inventory is a black leather backpack, in which the player can place items collected during gameplay sessions. It offers a category-based organization to facilitate search, and an interaction system with items, allowing the player to examine them or combine them together. Finally, for each item, the inventory also provides an accurate description, providing tips on how to use it or if it is possible to combine it with other items.
+
+## License
+Copyright © 2023 [Alex Marsico]
