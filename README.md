@@ -35,7 +35,9 @@ Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure
 "The Neuroscience Laboratory" is a skill tree where you can use brain-shaped medals, earned after completing secondary missions, to unlock brain abilities like enhanced vision, telekinesis, and more.
 
 * **Active Skills**
-  * Enhanced vision: Players will acquire emotions by completing main missions. These emotions can be used to analyze people, providing players with useful information to solve mysteries. This could be represented through visual feedback, such as changes in character behavior or appearance that help with the investigation.
+  * Enhanced vision: Enhanced vision: Players will acquire emotions by completing main missions. These emotions can be used to analyze people, providing players with useful information to solve mysteries.
+    Specifically, a question system will be used to unlock a reaction. The person's response could provide Dolores with the information she needs to solve the case. If the player makes a mistake in asking            questions, the interlocutor could temporarily lose the desire to speak and the player will be forced to focus on other matters.
+    The result of the right choices could be represented through visual feedback, such as particles emitted from the interlocutor's body that reflect the emotion felt at that moment. Finally, the notebook will       be automatically updated with the information learned.
     Specifically, the 6 primary emotions that can be used are:
      * happiness
      * adness
