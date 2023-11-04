@@ -19,15 +19,6 @@ Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure
 * **Target audience**: Age 11+
 * **Platform**: PC only
 
-## Technical specifications
-
-* **Minimum requirements**:
-  * Operating system: Windows 10 or 11
-  * Processor: Intel Core i5 or AMD Ryzen 5
-  * RAM: 8 GB
-  * Storage: SSD
-  * Graphics card: NVIDIA GeForce GTX 1080
-
 ## Software tools:
 
 * Game engine: Unreal Engine
