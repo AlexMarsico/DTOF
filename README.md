@@ -67,7 +67,7 @@ Documentation:
 ## Reward system
 Brain-shaped medals are the medals used to enhance skills. These can only be obtained by completing secondary quests, such as doing well in school, behaving like a good daughter and sister when you're at home, or at least trying to do so.
 
-## Powerup System and Balancing
+## Powerup system and balancing
 
 * Enchanced Vision powerup : Players can earn upgrades that make the enhanced vision ability more effective, such as the ability to analyze it more quickly. To prevent the ability from becoming too easy to use, a "watched" state could be used on the selected player that counters the ability of our player. Analysis speed will have a success percentage based on the difficulty and the player's current level, allowing the analysis before the selected player enters this state.
 Time limits on the use of enhanced vision force you to be selective in using the ability.
