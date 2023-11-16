@@ -15,9 +15,9 @@ Thank you for your interest in our project!
 Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure in which the protagonist, Dolores Tombeau, a young girl with a haunting appearance and a sharp intellect, must travel through time to change the past while trying to shed light on a complex murder case that took place at a prestigious 19th-century academy. Along the way, she will also begin a journey of self-discovery, learning about the human soul in all its facets.
 
 ## Story
-Dolores is a peculiar girl, but there's nothing wrong with that. She is intelligent, creative, and possesses a macabre sense of humor. She lives with the entire family tree in a large villa called Tomb Estate.
+Dolores is a peculiar girl, but there's nothing wrong with that. She is intelligent, creative, and possesses a macabre sense of humor. She lives with the entire family tree in a large villa called Tombeau Estate.
 
-After tormenting the class bully out of sheer boredom, Dolores gets expelled from high school with immediate effect. Touched by her insensitivity but fearing she might end up in a regular school where she wouldn't be accepted for who she is, her parents decide to enroll her in the "Grymstone Academy." A school for misfits, attended by boys and girls who don't fit into the normal world. Dolores is not thrilled with the news since this was the school her parents attended. Being recognized for what she hasn't done and staying in her parents' shadow is not what she desires, but alternatives are limited, so she reluctantly agrees.
+After tormenting the class bully out of sheer boredom, Dolores gets expelled from high school with immediate effect. Touched by her insensitivity but fearing she might end up in a regular school where she wouldn't be accepted for who she is, her parents decide to enroll her in the Grymstone Academy. A school for misfits, attended by boys and girls who don't fit into the normal world. Dolores is not thrilled with the news since this was the school her parents attended. Being recognized for what she hasn't done and staying in her parents' shadow is not what she desires, but alternatives are limited, so she reluctantly agrees.
 
 On the first day of school, Dolores has to pick up the necessary books from the library. At the library entrance, she encounters the librarian, an old man with a gruff demeanor and an irascible temperament. Tall and thin, with a long white beard and an aquiline nose, he seems more like a guardian of books than a librarian. His skin is wrinkled and dry, like the bark of an ancient tree. His eyes are small and piercing, always seeming irritated by something. His smile is rare and sardonic, and his words are often sharp and sarcastic. A loner who prefers the company of books over people, spending his days among the library shelves, immersed in his world of paper and ink. Dolores hands over the note with the necessary books to the librarian, who without uttering a sound turns and starts searching the shelves. While the librarian is busy with the search, Dolores, in the meantime, starts playing with the librarian's desk. She touches all the objects on it and then begins to stick her nose into the drawers. In one of the drawers, she finds a book with strange features. The book is old and dusty, but Dolores is immediately drawn to it. She takes it and hides it in her small brown leather backpack.
 
@@ -90,6 +90,22 @@ Time limits on the use of enhanced vision force you to be selective in using the
 ## Inventory
 
 The inventory is a black leather backpack, in which the player can place items collected during gameplay sessions. It offers a category-based organization to facilitate search, and an interaction system with items, allowing the player to examine them or combine them together. Finally, for each item, the inventory also provides an accurate description, providing tips on how to use it or if it is possible to combine it with other items.
+
+# Art style
+Grymstone Academy
+![image](https://github.com/AlexMarsico/DTOF/assets/78042460/4582450b-d6be-4b66-b160-cd7d89790d80)
+![image](https://github.com/AlexMarsico/DTOF/assets/78042460/59538d00-e119-446f-a705-ad987b4ca814)
+
+Village
+![murari-przebierala-main-shot](https://github.com/AlexMarsico/DTOF/assets/78042460/41c3b8a4-7e54-4f37-8368-4923371ba0ca)
+
+
+Tombeau estate
+![image](https://github.com/AlexMarsico/DTOF/assets/78042460/c23e26e0-233f-4059-ab3e-1e1ecc74b7d7)
+
+
+
+
 
 ## License
 Copyright © 2023 Alex Marsico
