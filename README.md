@@ -15,7 +15,7 @@ Thank you for your interest in our project!
 Dolores Tombeau: The tales Of Feelings is a third-person investigative adventure in which the protagonist, Dolores Tombeau, a young girl with a haunting appearance and a sharp intellect, must travel through time to change the past while trying to shed light on a complex murder case that took place at a prestigious 19th-century academy. Along the way, she will also begin a journey of self-discovery, learning about the human soul in all its facets.
 
 ## Story
-Dolores is a particular girl, but there's nothing wrong with that. She is intelligent, creative, and has a macabre sense of humor. She lives with her entire family in a large villa called Tenuta Tombeau.
+Dolores is a particular girl, but there's nothing wrong with that. She is intelligent, creative, and has a macabre sense of humor. She lives with her entire family in a large villa called Tombeau Estate.
 
 After tormenting the school bully for boredom, Dolores is expelled from high school with immediate effect. Her parents, moved by her callousness, but fearing that she might end up in a normal school where she would not be accepted for who she is, decide to enroll her in Grimstone Academy, a school for outcasts attended by boys and girls who do not fit in with the normal world.
 
