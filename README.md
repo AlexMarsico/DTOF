@@ -29,6 +29,8 @@ Dolores reads carefully, devouring the pages one after the other. She is fascina
 
 Captured by the reading, Dolores begins to fantasize. Perhaps, she thinks, these witches could help her with her "emotional problem." So, she comes up with the brilliant idea of creating an object capable of time travel. With this artifact, she can go back in time and save the witches from their tragic fate.
 
+And so begins Dolores's adventure of self-discovery on a rescue mission.
+
 ## Game informations
 
 * **Target audience**: Age 11+
