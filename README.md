@@ -3,7 +3,7 @@ Welcome to the DTOF project!
 
 La mia missione è dimostrare che con passione e determinazione è possibile creare qualcosa di funzionale, coinvolgente e divertente utilizzando solo il tempo e strumenti gratuiti come budget. Il gioco è stato originariamente concepito come progetto universitario per un esame, ma il mio obiettivo è continuare a lavorarci e trasformarlo in un vero e proprio videogioco destinato alla vendita. Attualmente, mi trovo nelle prime fasi dello sviluppo, ma sono entusiasta di condividere i progressi con il mondo. Credo che questo gioco possa diventare qualcosa di davvero speciale, e sono sempre aperta a ricevere feedback e suggerimenti. 
 
-Non esitate a contattarmi!.
+Non esitate a contattarmi!
 
 
 # Panoramica del gioco
