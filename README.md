@@ -9,7 +9,7 @@ Non esitate a contattarmi!
 # Panoramica del gioco
 
 ## Trama
-Dolores: The tale Of Feelings è un'avventura investigativa in terza persona in cui la protagonista, Dolores Tombeau, una giovane ragazza dall'aspetto inquietante e dall'intelletto acuto, deve viaggiare nel tempo per cambiare il passato cercando di fare luce su un complesso caso di omicidio avvenuto in una prestigiosa accademia del XIX secolo. Lungo il cammino, intraprenderà anche un viaggio di auto-scoperta, apprendendo tutte le sue sfaccettature dell'animo umano.
+Dolores: The tale Of Feelings è un'avventura investigativa in terza persona in cui la protagonista, Dolores Tombeau, una giovane ragazza dall'aspetto inquietante e dall'intelletto acuto, deve viaggiare nel tempo per cambiare il passato cercando di fare luce su un complesso caso di omicidio avvenuto in una prestigiosa accademia del XIX secolo. Lungo il cammino, intraprenderà anche un viaggio di auto-scoperta, apprendendo tutte le sfaccettature dell'animo umano.
 
 ## Storia
 Dolores è una ragazza particolare, ma non c'è nulla di male in questo. È intelligente, creativa e dotata di un senso dell'umorismo macabro. Vive con tutta la sua famiglia in una grande villa chiamata Tenuta Tombeau.
