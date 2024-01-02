@@ -101,6 +101,9 @@ The inventory is a black leather backpack, in which the player can place items c
 Grymstone Academy
 ![image](https://github.com/AlexMarsico/DTOF/assets/78042460/4582450b-d6be-4b66-b160-cd7d89790d80)
 ![image](https://github.com/AlexMarsico/DTOF/assets/78042460/59538d00-e119-446f-a705-ad987b4ca814)
+![Screenshot 2024-01-02 105933](https://github.com/AlexMarsico/DTOF/assets/78042460/5951c4d9-fcbc-4adf-912c-3bfec707a40b)
+![Screenshot 2024-01-02 105824](https://github.com/AlexMarsico/DTOF/assets/78042460/fb2d759b-5378-4f44-bd3d-da67395cef54)
+
 
 Village
 ![murari-przebierala-main-shot](https://github.com/AlexMarsico/DTOF/assets/78042460/41c3b8a4-7e54-4f37-8368-4923371ba0ca)
