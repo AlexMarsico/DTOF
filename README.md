@@ -52,19 +52,11 @@ Documentazione:
 Grymstone Academy
 ![image](https://github.com/AlexMarsico/DTOF/assets/78042460/4582450b-d6be-4b66-b160-cd7d89790d80)
 ![image](https://github.com/AlexMarsico/DTOF/assets/78042460/59538d00-e119-446f-a705-ad987b4ca814)
-![Screenshot 2024-01-02 105933](https://github.com/AlexMarsico/DTOF/assets/78042460/5951c4d9-fcbc-4adf-912c-3bfec707a40b)
 ![Screenshot 2024-01-02 105824](https://github.com/AlexMarsico/DTOF/assets/78042460/fb2d759b-5378-4f44-bd3d-da67395cef54)
 ![image](https://github.com/AlexMarsico/DTOF/assets/78042460/c88aaaf9-cd80-4b72-b30a-85c90445cdb1)
-
-
-Village
-![murari-przebierala-main-shot](https://github.com/AlexMarsico/DTOF/assets/78042460/41c3b8a4-7e54-4f37-8368-4923371ba0ca)
-![Screenshot 2024-01-02 110918](https://github.com/AlexMarsico/DTOF/assets/78042460/ab0b9c37-3db1-413f-96f5-3988869a96d0)
-
-Tombeau estate
-![MV5BNzY3NGY2NDUtYTExZi00NjM1LWIyYjItMTU0NWM4NWU3MTdiXkEyXkFqcGdeQXVyOTc5MDI5NjE@ _V1_](https://github.com/AlexMarsico/DTOF/assets/78042460/4336b1ca-b645-4fbb-aed0-b880f15c78b4)
-
-
+![Screenshot 2024-01-03 125041](https://github.com/AlexMarsico/DTOF/assets/78042460/2d32fdb6-f11a-44d2-a696-dbba63c56e0d)
+![Screenshot 2024-01-03 125248](https://github.com/AlexMarsico/DTOF/assets/78042460/bf02d557-af6d-4230-a8da-5c05b1539386)
+![Screenshot 2024-01-03 125444](https://github.com/AlexMarsico/DTOF/assets/78042460/3d77c307-2cc6-4fff-a2a4-28637cca712f)
 
 
 
