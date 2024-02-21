@@ -57,10 +57,3 @@ Grymstone Academy
 ![Screenshot 2024-01-03 125041](https://github.com/AlexMarsico/DTOF/assets/78042460/2d32fdb6-f11a-44d2-a696-dbba63c56e0d)
 ![Screenshot 2024-01-03 125248](https://github.com/AlexMarsico/DTOF/assets/78042460/bf02d557-af6d-4230-a8da-5c05b1539386)
 ![Screenshot 2024-01-03 125444](https://github.com/AlexMarsico/DTOF/assets/78042460/3d77c307-2cc6-4fff-a2a4-28637cca712f)
-
-
-
-
-
-## License
-© DTOF
