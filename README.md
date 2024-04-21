@@ -44,13 +44,3 @@ Documentazione:
 * **Auto Footstep Tool**: https://github.com/isri-aist/BaselineFootstepPlanner
 * **Elementus Inventory**: https://github.com/lucoiso/UEElementusInventory/wiki
 * **Sistema di Interazione**: https://github.com/shenkns/InteractionSystemPlugin
- 
-# Art style
-Grymstone Academy
-![image](https://github.com/AlexMarsico/DTOF/assets/78042460/4582450b-d6be-4b66-b160-cd7d89790d80)
-![image](https://github.com/AlexMarsico/DTOF/assets/78042460/59538d00-e119-446f-a705-ad987b4ca814)
-![Screenshot 2024-01-02 105824](https://github.com/AlexMarsico/DTOF/assets/78042460/fb2d759b-5378-4f44-bd3d-da67395cef54)
-![image](https://github.com/AlexMarsico/DTOF/assets/78042460/c88aaaf9-cd80-4b72-b30a-85c90445cdb1)
-![Screenshot 2024-01-03 125041](https://github.com/AlexMarsico/DTOF/assets/78042460/2d32fdb6-f11a-44d2-a696-dbba63c56e0d)
-![Screenshot 2024-01-03 125248](https://github.com/AlexMarsico/DTOF/assets/78042460/bf02d557-af6d-4230-a8da-5c05b1539386)
-![Screenshot 2024-01-03 125444](https://github.com/AlexMarsico/DTOF/assets/78042460/3d77c307-2cc6-4fff-a2a4-28637cca712f)
