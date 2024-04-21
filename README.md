@@ -1,6 +1,3 @@
-
-![image](https://github.com/AlexMarsico/DTOF/assets/78042460/adc5284e-ce4c-4d91-a4bd-d7bddee83596)
-
 Benvenuti! Sono Alex e sono un'indie game developer.
 
 La mia missione è dimostrare che con passione e determinazione è possibile creare qualcosa di funzionale, coinvolgente e divertente utilizzando solo il tempo e strumenti gratuiti come budget. Il gioco è stato originariamente concepito come progetto universitario per un esame, ma il mio obiettivo è continuare a lavorarci e trasformarlo in un vero e proprio videogioco destinato alla vendita. Attualmente, mi trovo nelle prime fasi dello sviluppo, ma sarò felice di condividere i progressi con il mondo.
