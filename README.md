@@ -24,23 +24,5 @@ E così inizia l'avventura di Dolores, una missione di salvataggio e scoperta di
 
 * **Pubblico di riferimento**: Età 16+
 * **Piattaforma**: Solo PC
-
-## Strumenti Software:
-
 * **Motore di gioco**: Unreal Engine
-* **Motore 3D**: Blender
-* **Motore audio**: Wwise
 
-In particolare, verranno utilizzati plugin gratuiti e pacchetti generici disponibili sul marketplace di Unreal Engine.
-
-* **Ques Editor Plugin**: Plugin progettato per creare e gestire missioni e dialoghi
-* **Auto Footstep**: Un plugin che imposta automaticamente i passi dei personaggi.
-* **Elementus Inventory**: Un plugin che fornisce un sistema di inventario.
-* **Sistema di Interazione**: Un plugin che consente di creare un sistema di interazione con un oggetto.
-* **Big niagara Boundle**: Effetti Niagara
-
-Documentazione:
-* **Ques Editor Plugin**: https://support.google.com/docs/answer/2494822?hl=en&co=GENIE.Platform%3DAndroid
-* **Auto Footstep Tool**: https://github.com/isri-aist/BaselineFootstepPlanner
-* **Elementus Inventory**: https://github.com/lucoiso/UEElementusInventory/wiki
-* **Sistema di Interazione**: https://github.com/shenkns/InteractionSystemPlugin
