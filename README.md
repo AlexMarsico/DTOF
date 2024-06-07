@@ -1,4 +1,5 @@
-Dolores: The tale of Feelings
+# Dolores: The tale of Feelings
+
 **Dolores: The tale of Feelings** è un videogioco adventure nato nel 2023 e attualmente ancora in fase di sviluppo. 
 
 ## Trama
