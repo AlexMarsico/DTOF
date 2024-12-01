@@ -4,9 +4,9 @@
 **Dolores: The tale of Feelings** è un videogioco stealth-adventure nato nel 2023 e attualmente ancora in fase di sviluppo. 
 
 ## Trama
-Dolores, una brillante e sociopatica ragazza, lascia l'università disgustata dalla mediocrità altrui e si dedica a macabre ricerche scientifiche nella sua solitaria dimora. Costretta dai genitori, viene iscritta alla Grimostone Academy, una scuola per eccentrici intellettuali. 
-Qui, un giorno, il bibliotecario viene assassinato. Intrigata, Dolores trova un misterioso libro nella scena del crimine con indizi legati a magia, barbecue di streghe e il bibliotecario. 
-Decisa a risolvere il mistero, vede nell'indagine un'occasione per coltivare il suo gusto per il macabro, trasformando la vendetta in una forma d’arte
+Dolores: The tale of Feelings è una storia di mistero e avventura che segue le vicende di Dolores, una brillante ma sociopatica ragazza, il cui disprezzo per la mediocrità altrui la porta a ritirarsi dall'università e dedicarsi a macabre ricerche scientifiche nella solitudine della sua dimora. 
+Tuttavia, la sua tranquillità viene interrotta quando i genitori, preoccupati per il suo isolamento, la iscrivono alla Grimostone Academy, un'accademia gotica per intellettuali eccentrici.
+L’atmosfera dell’accademia prende una piega interessante quando il bibliotecario, figura austera e misteriosa, viene trovato assassinato. Intrigata, Dolores decide di indagare, scoprendo sulla scena del crimine un antico libro che contiene indizi legati a magia oscura, barbecue di streghe e poteri dimenticati.
 
 ## Informazioni sul Gioco
 
