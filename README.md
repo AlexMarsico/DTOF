@@ -1,5 +1,4 @@
-# Dolores: The Tale of Feelings
-![Header](https://github.com/user-attachments/assets/87fbda0c-8151-421e-bafd-9fcbba3dcf6b)
+![47284a9b-0e07-4c97-9743-16b507c222f7](https://github.com/user-attachments/assets/b8fa36d3-affb-4187-a739-555c2f33f8d0)
 
 ## Academic Background
 
