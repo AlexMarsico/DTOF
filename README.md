@@ -1,4 +1,4 @@
-![47284a9b-0e07-4c97-9743-16b507c222f7](https://github.com/user-attachments/assets/b8fa36d3-affb-4187-a739-555c2f33f8d0)
+![Minimale Geometrico Innovazione Copertina di LinkedIn](https://github.com/user-attachments/assets/dec875d0-b135-4d29-a436-818d37744388)
 
 ## Academic Background
 
