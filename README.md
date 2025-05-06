@@ -29,7 +29,7 @@ Embark on a journey filled with mystery and twists, in search of the culprit, an
 ---
 ## ⚖️ Copyright & Legal
 
-© 2025 **CrazyGame Studio**. 
+© 2025 **CrazyGame Studios**. 
 
 All rights reserved.  
 This project, including its game concept, narrative, characters, and visual material, are original works protected under international copyright law.  
